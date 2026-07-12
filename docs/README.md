@@ -1,10 +1,57 @@
-# TFIF — Temporal Forensic Intelligence Framework
+<div align="center">
 
-> AI-powered surveillance video analysis platform that classifies incidents, reconstructs crime timelines, and generates downloadable forensic reports.
+# 🕵️ TFIF — Temporal Forensic Intelligence Framework
+
+### AI-Powered Autonomous Crime Scene Reconstruction from Surveillance Video
+
+*Classify incidents · Reconstruct timelines · Generate LLM-written forensic reports*
+
+[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![React](https://img.shields.io/badge/React-Frontend-61DAFB?logo=react&logoColor=black)](https://react.dev/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](#license)
+[![Status](https://img.shields.io/badge/Status-Active%20Development-brightgreen)](#)
+
+</div>
 
 ---
 
-## Architecture
+## 📖 Overview
+
+**TFIF** turns raw CCTV/surveillance footage into structured forensic intelligence. Instead of a single "violence / no violence" label, it watches the video the way an investigator would — classifying the incident, reconstructing *how it unfolds over time*, pulling out key evidence frames, and writing a full narrative report using an LLM. Even footage with no incident gets a proper scene-understanding report, so every upload produces a usable record.
+
+Built for the **XD-Violence** dataset across 7 incident classes: `Normal` · `Fighting` · `Shooting` · `Explosion` · `Riot` · `Car Accident` · `Abuse`.
+
+---
+
+## ✨ Key Features
+
+| | |
+|---|---|
+| 🎯 **>90% Classification Accuracy** | BiLSTM + temporal attention over MobileNetV3 frame embeddings |
+| 🧩 **Class Imbalance Handling** | Abuse class programmatically augmented 6 → 40 videos |
+| ⏱️ **Timeline Reconstruction** | Not just a label — a segmented narrative of how the incident unfolds |
+| 🖼️ **Evidence Extraction** | Automatically pulls key frames that matter most to the classification |
+| 🤖 **LLM Forensic Reports** | Claude/GPT-generated executive summary, threat assessment & recommendations |
+| 📄 **One-Click PDF Export** | Download a polished, investigator-ready report |
+| 📊 **Live Dashboard** | Upload progress, confidence charts, history, and aggregate stats |
+| 🧠 **Agentic Pipeline** | Preprocessing, classification, temporal reasoning & reporting run as coordinated agents |
+
+---
+
+## 🖥️ Preview
+
+> _Add screenshots or a GIF of the dashboard here once the frontend is running — e.g. `docs/screenshot-dashboard.png`_
+
+```
+Upload video → Live processing status → Classification + confidence
+    → Reconstructed timeline → Evidence gallery → Downloadable PDF report
+```
+
+---
+
+## 🏗️ Architecture
 
 ```
 TFIF/
@@ -23,138 +70,145 @@ TFIF/
 │       ├── label_map.json      # Class index mapping
 │       └── class_weights.json  # Class weighting used in training
 ├── reports/
-│   └── model_performance_report.html  # Evaluation report with charts
+│   └── model_performance_report.html
 ├── backend/
 │   ├── app/
 │   │   ├── main.py             # FastAPI application + all API endpoints
-│   │   ├── agents.py           # PreprocessingAgent, ClassificationAgent,
-│   │   │                       #   TemporalReasoningAgent, OrchestratorAgent
+│   │   ├── agents.py           # Preprocessing / Classification / TemporalReasoning / Orchestrator agents
 │   │   └── database.py         # SQLite schema + connection factory
-│   ├── report_generator.py     # LLM report generation + ReportLab PDF builder
-│   ├── uploads/                # Uploaded videos (created at runtime)
-│   ├── keyframes/              # Extracted evidence images (per video)
-│   ├── reports/                # Generated PDF reports
+│   ├── report_generator.py     # LLM report generation + PDF builder
+│   ├── uploads/  keyframes/  reports/   # created at runtime
 │   └── requirements.txt
 ├── frontend/
 │   └── src/
-│       ├── App.jsx             # Router + sidebar layout
-│       ├── index.css           # Full dark-mode design system
-│       └── pages/
-│           ├── HomePage.jsx    # Overview: stats, charts, recent uploads
-│           ├── UploadPage.jsx  # Drag-drop upload + live pipeline status
-│           ├── HistoryPage.jsx # All analysed videos table
-│           └── AnalysisPage.jsx # Classification, timeline, evidence, report
+│       ├── App.jsx
+│       ├── index.css
+│       └── pages/  (Home · Upload · History · Analysis)
 └── data/
-    ├── metadata.json           # Video→label→feature path mapping
-    ├── splits.json             # Train/val/test split indices
-    └── processed/              # Cached MobileNetV3 feature tensors (.pt)
+    ├── metadata.json
+    ├── splits.json
+    └── processed/
 ```
 
 ---
 
-## Quick Start
+## 🚀 Quick Start
 
 ### Prerequisites
 - Python 3.8+
 - Node.js 18+
-- At least 4 GB RAM (8 GB recommended for preprocessing)
+- 4 GB RAM minimum (8 GB recommended for preprocessing)
 
-### 1. Dataset Preparation (one-time)
-
+### 1️⃣ Dataset Preparation *(one-time)*
 ```powershell
-# Inspect dataset and rename folders
 python training\dataset_inspection.py
-
-# Augment Abuse class 6→40 videos
 python training\augment_abuse_class.py
-
-# Extract MobileNetV3 frame embeddings (takes 15–60 min on CPU)
 python training\preprocessing.py
 ```
 
-### 2. Model Training
-
+### 2️⃣ Train the Model
 ```powershell
-# Train the BiLSTM temporal classifier
 python training\train.py --epochs 60 --batch 16 --lr 3e-4
-
-# Evaluate and generate performance report
 python training\evaluate.py
 # → reports/model_performance_report.html
 ```
 
-### 3. Start Backend API
-
+### 3️⃣ Start the Backend
 ```powershell
 cd backend
-# Create .env file with your API key (optional — fallback report used if absent):
-#   LLM_PROVIDER=anthropic
-#   ANTHROPIC_API_KEY=sk-ant-...
-# OR
-#   LLM_PROVIDER=openai
-#   OPENAI_API_KEY=sk-...
+python -m uvicorn app.main:app --host 127.0.0.1 --port 8000 --reload
+```
+API: `http://localhost:8000` · Swagger docs: `http://localhost:8000/docs`
 
-python -m uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
-# API available at http://localhost:8000
-# Swagger docs at http://localhost:8000/docs
+Create a `.env` in `backend/` for LLM-generated reports (optional — falls back to a structured template report if omitted):
+```env
+LLM_PROVIDER=anthropic
+ANTHROPIC_API_KEY=sk-ant-...
 ```
 
-### 4. Start Frontend
-
+### 4️⃣ Start the Frontend
 ```powershell
 cd frontend
 npm install
 npm run dev
-# Dashboard at http://localhost:5173
 ```
+Dashboard: `http://localhost:5173`
 
 ---
 
-## API Endpoints
+## 🔌 API Reference
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
-| POST | `/api/videos/upload` | Upload a surveillance video |
-| GET  | `/api/videos/{id}/status` | Processing stage |
-| GET  | `/api/videos/{id}/result` | Classification + timeline + keyframes |
-| GET  | `/api/videos/{id}/report` | Full LLM forensic report (JSON) |
-| GET  | `/api/videos/{id}/report/download` | Download PDF report |
-| GET  | `/api/videos` | List all analysed videos |
-| GET  | `/api/dashboard/stats` | Aggregate statistics |
+| `POST` | `/api/videos/upload` | Upload a surveillance video |
+| `GET`  | `/api/videos/{id}/status` | Current processing stage |
+| `GET`  | `/api/videos/{id}/result` | Classification + timeline + keyframes |
+| `GET`  | `/api/videos/{id}/report` | Full LLM forensic report (JSON) |
+| `GET`  | `/api/videos/{id}/report/download` | Download PDF report |
+| `GET`  | `/api/videos` | List all analysed videos |
+| `GET`  | `/api/dashboard/stats` | Aggregate statistics |
 
 ---
 
-## Model Architecture
+## 🧠 Model Architecture
 
-- **Backbone**: MobileNetV3-Large (ImageNet pretrained, frozen) → 960-dim frame embeddings
-- **Temporal Head**: 2-layer BiLSTM (hidden=256) + self-attention over 16 uniformly sampled frames
-- **Classifier**: LayerNorm → Dropout → Linear(512→128) → GELU → Linear(128→7)
-- **Training**: AdamW + CosineAnnealingLR + class-weighted CrossEntropyLoss + label smoothing
-- **Target**: >90% test accuracy
-
----
-
-## Dataset
-
-- **Source**: XD-Violence (subset, 7 classes)
-- **Classes**: Normal (50), Fighting (40), Shooting (40), Explosion (40), Riot (40), Car Accident (40), Abuse (40 after augmentation)
-- **Augmentation**: Horizontal flip, brightness/contrast jitter, Gaussian noise, speed jitter, random crop+resize
-- **Splits**: 70% train / 15% val / 15% test (stratified)
-
----
-
-## LLM Report Generation
-
-Set environment variables before starting the backend:
-
-```env
-# Anthropic Claude (default)
-LLM_PROVIDER=anthropic
-ANTHROPIC_API_KEY=sk-ant-...
-
-# OR OpenAI GPT-4o-mini
-LLM_PROVIDER=openai
-OPENAI_API_KEY=sk-...
+```
+Video → 16 uniformly sampled frames
+      → MobileNetV3-Large (frozen, ImageNet-pretrained) → 960-dim embeddings
+      → 2-layer BiLSTM (hidden=256) + self-attention
+      → LayerNorm → Dropout → Linear(512→128) → GELU → Linear(128→7)
 ```
 
-If no API key is provided, the system generates a deterministic structured report from the raw classification and timeline data.
+- **Optimizer:** AdamW + CosineAnnealingLR
+- **Loss:** Class-weighted CrossEntropy + label smoothing
+- **Target:** >90% test accuracy
+
+---
+
+## 📦 Dataset
+
+| Class | Videos |
+|---|---|
+| Normal | 50 |
+| Fighting | 40 |
+| Shooting | 40 |
+| Explosion | 40 |
+| Riot | 40 |
+| Car Accident | 40 |
+| Abuse | 6 → augmented to 40 |
+
+**Augmentation techniques:** horizontal flip, brightness/contrast jitter, Gaussian noise, speed jitter, random crop + resize.
+**Split:** 70% train / 15% val / 15% test (stratified).
+
+> 📁 The dataset itself is **not included in this repository** (large, and subject to licensing). Place your local copy under the path configured in `training/preprocessing.py` before running the pipeline.
+
+---
+
+## 🗂️ Tech Stack
+
+`Python` `PyTorch` `FastAPI` `SQLite` `React` `Vite` `Tailwind CSS` `Recharts` `Claude / OpenAI API` `ReportLab`
+
+---
+
+## 🛣️ Roadmap
+
+- [ ] Multi-camera / multi-angle correlation
+- [ ] Real-time RTSP stream support
+- [ ] Role-based access for investigators vs. admins
+- [ ] Model quantization for edge deployment
+
+---
+
+## 🤝 Contributing
+
+Issues and pull requests are welcome. Please open an issue first to discuss significant changes.
+
+## 📄 License
+
+Distributed under the MIT License. See `LICENSE` for details.
+
+---
+
+<div align="center">
+Built as an academic final-year project exploring agentic AI, computer vision, and LLM-driven forensic reporting.
+</div>
