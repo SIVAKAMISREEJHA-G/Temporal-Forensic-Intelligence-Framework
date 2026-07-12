@@ -1,0 +1,59 @@
+============================================================
+TEMPORAL FORENSIC INTELLIGENCE FRAMEWORK (TFIF)
+DATASET INSPECTION REPORT
+============================================================
+Base Directory: C:\Users\sivak\Downloads\crime data
+Total Readable Videos Found: 256
+Total Corrupted Videos Found: 0
+
+No corrupted or unreadable video files detected.
+
+PER-CLASS VIDEO STATS:
+------------------------------------------------------------
+Class: Abuse
+  - Video Count: 6
+  - Duration (seconds): Min = 34.08s, Max = 177.00s, Avg = 87.20s
+  - Frame Rate (FPS): Min = 24.00, Max = 24.00, Avg = 24.00
+  - Resolutions present: 640x272, 640x268, 640x266, 640x346
+------------------------------
+Class: Car Accident
+  - Video Count: 40
+  - Duration (seconds): Min = 15.04s, Max = 434.75s, Avg = 78.23s
+  - Frame Rate (FPS): Min = 24.00, Max = 24.00, Avg = 24.00
+  - Resolutions present: 640x360, 640x358, 640x354, 640x272, 640x266, 640x268
+------------------------------
+Class: Explosion
+  - Video Count: 40
+  - Duration (seconds): Min = 10.04s, Max = 308.71s, Avg = 52.81s
+  - Frame Rate (FPS): Min = 24.00, Max = 24.00, Avg = 24.00
+  - Resolutions present: 640x360, 384x288, 480x360, 640x358, 640x272, 640x266, 640x268, 640x346, 640x344, 640x264, 640x338, 450x254, 640x270, 198x360
+------------------------------
+Class: Fighting
+  - Video Count: 40
+  - Duration (seconds): Min = 11.00s, Max = 492.00s, Avg = 86.39s
+  - Frame Rate (FPS): Min = 24.00, Max = 24.00, Avg = 24.00
+  - Resolutions present: 640x266, 640x354, 640x272, 320x240, 640x268, 640x338, 480x360, 640x346, 640x360, 640x344
+------------------------------
+Class: Normal
+  - Video Count: 50
+  - Duration (seconds): Min = 6.97s, Max = 448.63s, Avg = 97.30s
+  - Frame Rate (FPS): Min = 30.00, Max = 30.00, Avg = 30.00
+  - Resolutions present: 320x240
+------------------------------
+Class: Riot
+  - Video Count: 40
+  - Duration (seconds): Min = 11.04s, Max = 816.08s, Avg = 128.33s
+  - Frame Rate (FPS): Min = 24.00, Max = 24.00, Avg = 24.00
+  - Resolutions present: 636x360, 640x360, 480x360, 640x340, 638x360, 640x268, 640x272, 640x270, 320x240
+------------------------------
+Class: Shooting
+  - Video Count: 40
+  - Duration (seconds): Min = 10.04s, Max = 132.04s, Avg = 49.64s
+  - Frame Rate (FPS): Min = 24.00, Max = 24.00, Avg = 24.00
+  - Resolutions present: 640x268, 640x272, 640x264, 640x266, 640x274, 640x346, 640x360, 640x348, 640x338, 640x270, 640x344, 640x260
+------------------------------
+
+OVERALL DATASET STATISTICS:
+  - Total Videos: 256
+  - Duration: Min = 6.97s, Max = 816.08s, Avg = 82.83s
+  - Class counts: {'Normal': 50, 'Car Accident': 40, 'Explosion': 40, 'Fighting': 40, 'Riot': 40, 'Shooting': 40, 'Abuse': 6}

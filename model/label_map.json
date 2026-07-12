@@ -1,0 +1,20 @@
+{
+  "classes": [
+    "Abuse",
+    "Car Accident",
+    "Explosion",
+    "Fighting",
+    "Normal",
+    "Riot",
+    "Shooting"
+  ],
+  "label_map": {
+    "Abuse": 0,
+    "Car Accident": 1,
+    "Explosion": 2,
+    "Fighting": 3,
+    "Normal": 4,
+    "Riot": 5,
+    "Shooting": 6
+  }
+}

@@ -1,0 +1,2322 @@
+[
+  {
+    "class": "Abuse",
+    "label": 0,
+    "video": "abuse (1).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Abuse_abuse_1.pt",
+    "duration": 57.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Abuse",
+    "label": 0,
+    "video": "abuse (2).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Abuse_abuse_2.pt",
+    "duration": 34.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Abuse",
+    "label": 0,
+    "video": "abuse (3).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Abuse_abuse_3.pt",
+    "duration": 62.0,
+    "fps": 24.0
+  },
+  {
+    "class": "Abuse",
+    "label": 0,
+    "video": "abuse (4).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Abuse_abuse_4.pt",
+    "duration": 177.0,
+    "fps": 24.0
+  },
+  {
+    "class": "Abuse",
+    "label": 0,
+    "video": "abuse (5).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Abuse_abuse_5.pt",
+    "duration": 151.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Abuse",
+    "label": 0,
+    "video": "abuse (6).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Abuse_abuse_6.pt",
+    "duration": 42.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Abuse",
+    "label": 0,
+    "video": "abuse_aug_01.mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Abuse_abuse_aug_01.pt",
+    "duration": 57.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Abuse",
+    "label": 0,
+    "video": "abuse_aug_02.mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Abuse_abuse_aug_02.pt",
+    "duration": 34.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Abuse",
+    "label": 0,
+    "video": "abuse_aug_03.mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Abuse_abuse_aug_03.pt",
+    "duration": 62.0,
+    "fps": 24.0
+  },
+  {
+    "class": "Abuse",
+    "label": 0,
+    "video": "abuse_aug_04.mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Abuse_abuse_aug_04.pt",
+    "duration": 177.0,
+    "fps": 24.0
+  },
+  {
+    "class": "Abuse",
+    "label": 0,
+    "video": "abuse_aug_05.mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Abuse_abuse_aug_05.pt",
+    "duration": 151.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Abuse",
+    "label": 0,
+    "video": "abuse_aug_06.mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Abuse_abuse_aug_06.pt",
+    "duration": 46.71,
+    "fps": 24.0
+  },
+  {
+    "class": "Abuse",
+    "label": 0,
+    "video": "abuse_aug_07.mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Abuse_abuse_aug_07.pt",
+    "duration": 51.38,
+    "fps": 24.0
+  },
+  {
+    "class": "Abuse",
+    "label": 0,
+    "video": "abuse_aug_08.mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Abuse_abuse_aug_08.pt",
+    "duration": 34.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Abuse",
+    "label": 0,
+    "video": "abuse_aug_09.mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Abuse_abuse_aug_09.pt",
+    "duration": 62.0,
+    "fps": 24.0
+  },
+  {
+    "class": "Abuse",
+    "label": 0,
+    "video": "abuse_aug_10.mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Abuse_abuse_aug_10.pt",
+    "duration": 177.0,
+    "fps": 24.0
+  },
+  {
+    "class": "Abuse",
+    "label": 0,
+    "video": "abuse_aug_11.mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Abuse_abuse_aug_11.pt",
+    "duration": 151.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Abuse",
+    "label": 0,
+    "video": "abuse_aug_12.mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Abuse_abuse_aug_12.pt",
+    "duration": 46.71,
+    "fps": 24.0
+  },
+  {
+    "class": "Abuse",
+    "label": 0,
+    "video": "abuse_aug_13.mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Abuse_abuse_aug_13.pt",
+    "duration": 57.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Abuse",
+    "label": 0,
+    "video": "abuse_aug_14.mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Abuse_abuse_aug_14.pt",
+    "duration": 30.71,
+    "fps": 24.0
+  },
+  {
+    "class": "Abuse",
+    "label": 0,
+    "video": "abuse_aug_15.mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Abuse_abuse_aug_15.pt",
+    "duration": 62.0,
+    "fps": 24.0
+  },
+  {
+    "class": "Abuse",
+    "label": 0,
+    "video": "abuse_aug_16.mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Abuse_abuse_aug_16.pt",
+    "duration": 177.0,
+    "fps": 24.0
+  },
+  {
+    "class": "Abuse",
+    "label": 0,
+    "video": "abuse_aug_17.mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Abuse_abuse_aug_17.pt",
+    "duration": 151.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Abuse",
+    "label": 0,
+    "video": "abuse_aug_18.mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Abuse_abuse_aug_18.pt",
+    "duration": 46.71,
+    "fps": 24.0
+  },
+  {
+    "class": "Abuse",
+    "label": 0,
+    "video": "abuse_aug_19.mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Abuse_abuse_aug_19.pt",
+    "duration": 57.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Abuse",
+    "label": 0,
+    "video": "abuse_aug_20.mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Abuse_abuse_aug_20.pt",
+    "duration": 34.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Abuse",
+    "label": 0,
+    "video": "abuse_aug_21.mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Abuse_abuse_aug_21.pt",
+    "duration": 55.83,
+    "fps": 24.0
+  },
+  {
+    "class": "Abuse",
+    "label": 0,
+    "video": "abuse_aug_22.mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Abuse_abuse_aug_22.pt",
+    "duration": 177.0,
+    "fps": 24.0
+  },
+  {
+    "class": "Abuse",
+    "label": 0,
+    "video": "abuse_aug_23.mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Abuse_abuse_aug_23.pt",
+    "duration": 151.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Abuse",
+    "label": 0,
+    "video": "abuse_aug_24.mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Abuse_abuse_aug_24.pt",
+    "duration": 46.71,
+    "fps": 24.0
+  },
+  {
+    "class": "Abuse",
+    "label": 0,
+    "video": "abuse_aug_25.mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Abuse_abuse_aug_25.pt",
+    "duration": 57.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Abuse",
+    "label": 0,
+    "video": "abuse_aug_26.mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Abuse_abuse_aug_26.pt",
+    "duration": 34.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Abuse",
+    "label": 0,
+    "video": "abuse_aug_27.mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Abuse_abuse_aug_27.pt",
+    "duration": 62.0,
+    "fps": 24.0
+  },
+  {
+    "class": "Abuse",
+    "label": 0,
+    "video": "abuse_aug_28.mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Abuse_abuse_aug_28.pt",
+    "duration": 159.33,
+    "fps": 24.0
+  },
+  {
+    "class": "Abuse",
+    "label": 0,
+    "video": "abuse_aug_29.mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Abuse_abuse_aug_29.pt",
+    "duration": 151.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Abuse",
+    "label": 0,
+    "video": "abuse_aug_30.mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Abuse_abuse_aug_30.pt",
+    "duration": 46.71,
+    "fps": 24.0
+  },
+  {
+    "class": "Abuse",
+    "label": 0,
+    "video": "abuse_aug_31.mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Abuse_abuse_aug_31.pt",
+    "duration": 57.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Abuse",
+    "label": 0,
+    "video": "abuse_aug_32.mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Abuse_abuse_aug_32.pt",
+    "duration": 34.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Abuse",
+    "label": 0,
+    "video": "abuse_aug_33.mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Abuse_abuse_aug_33.pt",
+    "duration": 62.0,
+    "fps": 24.0
+  },
+  {
+    "class": "Abuse",
+    "label": 0,
+    "video": "abuse_aug_34.mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Abuse_abuse_aug_34.pt",
+    "duration": 177.0,
+    "fps": 24.0
+  },
+  {
+    "class": "Car Accident",
+    "label": 1,
+    "video": "car accident (1).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Car Accident_car_accident_1.pt",
+    "duration": 434.75,
+    "fps": 24.0
+  },
+  {
+    "class": "Car Accident",
+    "label": 1,
+    "video": "car accident (10).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Car Accident_car_accident_10.pt",
+    "duration": 69.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Car Accident",
+    "label": 1,
+    "video": "car accident (11).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Car Accident_car_accident_11.pt",
+    "duration": 51.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Car Accident",
+    "label": 1,
+    "video": "car accident (12).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Car Accident_car_accident_12.pt",
+    "duration": 90.12,
+    "fps": 24.0
+  },
+  {
+    "class": "Car Accident",
+    "label": 1,
+    "video": "car accident (13).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Car Accident_car_accident_13.pt",
+    "duration": 85.0,
+    "fps": 24.0
+  },
+  {
+    "class": "Car Accident",
+    "label": 1,
+    "video": "car accident (14).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Car Accident_car_accident_14.pt",
+    "duration": 119.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Car Accident",
+    "label": 1,
+    "video": "car accident (15).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Car Accident_car_accident_15.pt",
+    "duration": 105.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Car Accident",
+    "label": 1,
+    "video": "car accident (16).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Car Accident_car_accident_16.pt",
+    "duration": 63.12,
+    "fps": 24.0
+  },
+  {
+    "class": "Car Accident",
+    "label": 1,
+    "video": "car accident (17).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Car Accident_car_accident_17.pt",
+    "duration": 21.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Car Accident",
+    "label": 1,
+    "video": "car accident (18).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Car Accident_car_accident_18.pt",
+    "duration": 105.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Car Accident",
+    "label": 1,
+    "video": "car accident (19).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Car Accident_car_accident_19.pt",
+    "duration": 105.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Car Accident",
+    "label": 1,
+    "video": "car accident (2).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Car Accident_car_accident_2.pt",
+    "duration": 52.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Car Accident",
+    "label": 1,
+    "video": "car accident (20).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Car Accident_car_accident_20.pt",
+    "duration": 111.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Car Accident",
+    "label": 1,
+    "video": "car accident (21).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Car Accident_car_accident_21.pt",
+    "duration": 193.75,
+    "fps": 24.0
+  },
+  {
+    "class": "Car Accident",
+    "label": 1,
+    "video": "car accident (22).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Car Accident_car_accident_22.pt",
+    "duration": 69.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Car Accident",
+    "label": 1,
+    "video": "car accident (23).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Car Accident_car_accident_23.pt",
+    "duration": 115.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Car Accident",
+    "label": 1,
+    "video": "car accident (24).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Car Accident_car_accident_24.pt",
+    "duration": 60.12,
+    "fps": 24.0
+  },
+  {
+    "class": "Car Accident",
+    "label": 1,
+    "video": "car accident (25).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Car Accident_car_accident_25.pt",
+    "duration": 51.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Car Accident",
+    "label": 1,
+    "video": "car accident (26).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Car Accident_car_accident_26.pt",
+    "duration": 75.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Car Accident",
+    "label": 1,
+    "video": "car accident (27).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Car Accident_car_accident_27.pt",
+    "duration": 105.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Car Accident",
+    "label": 1,
+    "video": "car accident (28).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Car Accident_car_accident_28.pt",
+    "duration": 51.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Car Accident",
+    "label": 1,
+    "video": "car accident (29).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Car Accident_car_accident_29.pt",
+    "duration": 30.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Car Accident",
+    "label": 1,
+    "video": "car accident (3).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Car Accident_car_accident_3.pt",
+    "duration": 78.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Car Accident",
+    "label": 1,
+    "video": "car accident (30).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Car Accident_car_accident_30.pt",
+    "duration": 50.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Car Accident",
+    "label": 1,
+    "video": "car accident (31).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Car Accident_car_accident_31.pt",
+    "duration": 47.0,
+    "fps": 24.0
+  },
+  {
+    "class": "Car Accident",
+    "label": 1,
+    "video": "car accident (32).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Car Accident_car_accident_32.pt",
+    "duration": 100.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Car Accident",
+    "label": 1,
+    "video": "car accident (33).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Car Accident_car_accident_33.pt",
+    "duration": 100.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Car Accident",
+    "label": 1,
+    "video": "car accident (34).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Car Accident_car_accident_34.pt",
+    "duration": 15.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Car Accident",
+    "label": 1,
+    "video": "car accident (35).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Car Accident_car_accident_35.pt",
+    "duration": 15.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Car Accident",
+    "label": 1,
+    "video": "car accident (36).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Car Accident_car_accident_36.pt",
+    "duration": 18.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Car Accident",
+    "label": 1,
+    "video": "car accident (37).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Car Accident_car_accident_37.pt",
+    "duration": 32.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Car Accident",
+    "label": 1,
+    "video": "car accident (38).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Car Accident_car_accident_38.pt",
+    "duration": 31.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Car Accident",
+    "label": 1,
+    "video": "car accident (39).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Car Accident_car_accident_39.pt",
+    "duration": 34.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Car Accident",
+    "label": 1,
+    "video": "car accident (4).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Car Accident_car_accident_4.pt",
+    "duration": 70.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Car Accident",
+    "label": 1,
+    "video": "car accident (40).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Car Accident_car_accident_40.pt",
+    "duration": 16.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Car Accident",
+    "label": 1,
+    "video": "car accident (5).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Car Accident_car_accident_5.pt",
+    "duration": 105.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Car Accident",
+    "label": 1,
+    "video": "car accident (6).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Car Accident_car_accident_6.pt",
+    "duration": 51.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Car Accident",
+    "label": 1,
+    "video": "car accident (7).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Car Accident_car_accident_7.pt",
+    "duration": 105.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Car Accident",
+    "label": 1,
+    "video": "car accident (8).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Car Accident_car_accident_8.pt",
+    "duration": 30.12,
+    "fps": 24.0
+  },
+  {
+    "class": "Car Accident",
+    "label": 1,
+    "video": "car accident (9).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Car Accident_car_accident_9.pt",
+    "duration": 69.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Explosion",
+    "label": 2,
+    "video": "explosion (1).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Explosion_explosion_1.pt",
+    "duration": 235.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Explosion",
+    "label": 2,
+    "video": "explosion (10).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Explosion_explosion_10.pt",
+    "duration": 41.0,
+    "fps": 24.0
+  },
+  {
+    "class": "Explosion",
+    "label": 2,
+    "video": "explosion (11).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Explosion_explosion_11.pt",
+    "duration": 31.25,
+    "fps": 24.0
+  },
+  {
+    "class": "Explosion",
+    "label": 2,
+    "video": "explosion (12).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Explosion_explosion_12.pt",
+    "duration": 50.17,
+    "fps": 24.0
+  },
+  {
+    "class": "Explosion",
+    "label": 2,
+    "video": "explosion (13).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Explosion_explosion_13.pt",
+    "duration": 95.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Explosion",
+    "label": 2,
+    "video": "explosion (14).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Explosion_explosion_14.pt",
+    "duration": 52.21,
+    "fps": 24.0
+  },
+  {
+    "class": "Explosion",
+    "label": 2,
+    "video": "explosion (15).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Explosion_explosion_15.pt",
+    "duration": 52.21,
+    "fps": 24.0
+  },
+  {
+    "class": "Explosion",
+    "label": 2,
+    "video": "explosion (16).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Explosion_explosion_16.pt",
+    "duration": 18.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Explosion",
+    "label": 2,
+    "video": "explosion (17).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Explosion_explosion_17.pt",
+    "duration": 27.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Explosion",
+    "label": 2,
+    "video": "explosion (18).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Explosion_explosion_18.pt",
+    "duration": 72.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Explosion",
+    "label": 2,
+    "video": "explosion (19).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Explosion_explosion_19.pt",
+    "duration": 19.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Explosion",
+    "label": 2,
+    "video": "explosion (2).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Explosion_explosion_2.pt",
+    "duration": 308.71,
+    "fps": 24.0
+  },
+  {
+    "class": "Explosion",
+    "label": 2,
+    "video": "explosion (20).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Explosion_explosion_20.pt",
+    "duration": 28.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Explosion",
+    "label": 2,
+    "video": "explosion (21).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Explosion_explosion_21.pt",
+    "duration": 30.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Explosion",
+    "label": 2,
+    "video": "explosion (22).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Explosion_explosion_22.pt",
+    "duration": 35.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Explosion",
+    "label": 2,
+    "video": "explosion (23).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Explosion_explosion_23.pt",
+    "duration": 15.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Explosion",
+    "label": 2,
+    "video": "explosion (24).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Explosion_explosion_24.pt",
+    "duration": 20.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Explosion",
+    "label": 2,
+    "video": "explosion (25).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Explosion_explosion_25.pt",
+    "duration": 13.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Explosion",
+    "label": 2,
+    "video": "explosion (26).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Explosion_explosion_26.pt",
+    "duration": 15.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Explosion",
+    "label": 2,
+    "video": "explosion (27).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Explosion_explosion_27.pt",
+    "duration": 44.0,
+    "fps": 24.0
+  },
+  {
+    "class": "Explosion",
+    "label": 2,
+    "video": "explosion (28).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Explosion_explosion_28.pt",
+    "duration": 27.0,
+    "fps": 24.0
+  },
+  {
+    "class": "Explosion",
+    "label": 2,
+    "video": "explosion (29).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Explosion_explosion_29.pt",
+    "duration": 40.0,
+    "fps": 24.0
+  },
+  {
+    "class": "Explosion",
+    "label": 2,
+    "video": "explosion (3).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Explosion_explosion_3.pt",
+    "duration": 52.0,
+    "fps": 24.0
+  },
+  {
+    "class": "Explosion",
+    "label": 2,
+    "video": "explosion (30).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Explosion_explosion_30.pt",
+    "duration": 23.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Explosion",
+    "label": 2,
+    "video": "explosion (31).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Explosion_explosion_31.pt",
+    "duration": 17.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Explosion",
+    "label": 2,
+    "video": "explosion (32).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Explosion_explosion_32.pt",
+    "duration": 40.0,
+    "fps": 24.0
+  },
+  {
+    "class": "Explosion",
+    "label": 2,
+    "video": "explosion (33).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Explosion_explosion_33.pt",
+    "duration": 19.0,
+    "fps": 24.0
+  },
+  {
+    "class": "Explosion",
+    "label": 2,
+    "video": "explosion (34).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Explosion_explosion_34.pt",
+    "duration": 40.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Explosion",
+    "label": 2,
+    "video": "explosion (35).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Explosion_explosion_35.pt",
+    "duration": 10.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Explosion",
+    "label": 2,
+    "video": "explosion (36).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Explosion_explosion_36.pt",
+    "duration": 33.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Explosion",
+    "label": 2,
+    "video": "explosion (37).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Explosion_explosion_37.pt",
+    "duration": 40.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Explosion",
+    "label": 2,
+    "video": "explosion (38).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Explosion_explosion_38.pt",
+    "duration": 28.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Explosion",
+    "label": 2,
+    "video": "explosion (39).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Explosion_explosion_39.pt",
+    "duration": 69.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Explosion",
+    "label": 2,
+    "video": "explosion (4).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Explosion_explosion_4.pt",
+    "duration": 28.67,
+    "fps": 24.0
+  },
+  {
+    "class": "Explosion",
+    "label": 2,
+    "video": "explosion (40).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Explosion_explosion_40.pt",
+    "duration": 60.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Explosion",
+    "label": 2,
+    "video": "explosion (5).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Explosion_explosion_5.pt",
+    "duration": 83.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Explosion",
+    "label": 2,
+    "video": "explosion (6).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Explosion_explosion_6.pt",
+    "duration": 54.17,
+    "fps": 24.0
+  },
+  {
+    "class": "Explosion",
+    "label": 2,
+    "video": "explosion (7).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Explosion_explosion_7.pt",
+    "duration": 67.83,
+    "fps": 24.0
+  },
+  {
+    "class": "Explosion",
+    "label": 2,
+    "video": "explosion (8).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Explosion_explosion_8.pt",
+    "duration": 112.96,
+    "fps": 24.0
+  },
+  {
+    "class": "Explosion",
+    "label": 2,
+    "video": "explosion (9).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Explosion_explosion_9.pt",
+    "duration": 65.12,
+    "fps": 24.0
+  },
+  {
+    "class": "Fighting",
+    "label": 3,
+    "video": "fighting (1).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Fighting_fighting_1.pt",
+    "duration": 26.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Fighting",
+    "label": 3,
+    "video": "fighting (10).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Fighting_fighting_10.pt",
+    "duration": 54.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Fighting",
+    "label": 3,
+    "video": "fighting (11).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Fighting_fighting_11.pt",
+    "duration": 115.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Fighting",
+    "label": 3,
+    "video": "fighting (12).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Fighting_fighting_12.pt",
+    "duration": 120.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Fighting",
+    "label": 3,
+    "video": "fighting (13).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Fighting_fighting_13.pt",
+    "duration": 85.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Fighting",
+    "label": 3,
+    "video": "fighting (14).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Fighting_fighting_14.pt",
+    "duration": 50.0,
+    "fps": 24.0
+  },
+  {
+    "class": "Fighting",
+    "label": 3,
+    "video": "fighting (15).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Fighting_fighting_15.pt",
+    "duration": 76.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Fighting",
+    "label": 3,
+    "video": "fighting (16).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Fighting_fighting_16.pt",
+    "duration": 78.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Fighting",
+    "label": 3,
+    "video": "fighting (17).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Fighting_fighting_17.pt",
+    "duration": 46.0,
+    "fps": 24.0
+  },
+  {
+    "class": "Fighting",
+    "label": 3,
+    "video": "fighting (18).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Fighting_fighting_18.pt",
+    "duration": 115.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Fighting",
+    "label": 3,
+    "video": "fighting (19).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Fighting_fighting_19.pt",
+    "duration": 12.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Fighting",
+    "label": 3,
+    "video": "fighting (2).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Fighting_fighting_2.pt",
+    "duration": 142.62,
+    "fps": 24.0
+  },
+  {
+    "class": "Fighting",
+    "label": 3,
+    "video": "fighting (20).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Fighting_fighting_20.pt",
+    "duration": 39.0,
+    "fps": 24.0
+  },
+  {
+    "class": "Fighting",
+    "label": 3,
+    "video": "fighting (21).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Fighting_fighting_21.pt",
+    "duration": 21.0,
+    "fps": 24.0
+  },
+  {
+    "class": "Fighting",
+    "label": 3,
+    "video": "fighting (22).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Fighting_fighting_22.pt",
+    "duration": 492.0,
+    "fps": 24.0
+  },
+  {
+    "class": "Fighting",
+    "label": 3,
+    "video": "fighting (23).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Fighting_fighting_23.pt",
+    "duration": 39.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Fighting",
+    "label": 3,
+    "video": "fighting (24).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Fighting_fighting_24.pt",
+    "duration": 40.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Fighting",
+    "label": 3,
+    "video": "fighting (25).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Fighting_fighting_25.pt",
+    "duration": 45.0,
+    "fps": 24.0
+  },
+  {
+    "class": "Fighting",
+    "label": 3,
+    "video": "fighting (26).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Fighting_fighting_26.pt",
+    "duration": 89.0,
+    "fps": 24.0
+  },
+  {
+    "class": "Fighting",
+    "label": 3,
+    "video": "fighting (27).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Fighting_fighting_27.pt",
+    "duration": 11.0,
+    "fps": 24.0
+  },
+  {
+    "class": "Fighting",
+    "label": 3,
+    "video": "fighting (28).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Fighting_fighting_28.pt",
+    "duration": 196.0,
+    "fps": 24.0
+  },
+  {
+    "class": "Fighting",
+    "label": 3,
+    "video": "fighting (29).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Fighting_fighting_29.pt",
+    "duration": 119.0,
+    "fps": 24.0
+  },
+  {
+    "class": "Fighting",
+    "label": 3,
+    "video": "fighting (3).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Fighting_fighting_3.pt",
+    "duration": 192.54,
+    "fps": 24.0
+  },
+  {
+    "class": "Fighting",
+    "label": 3,
+    "video": "fighting (30).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Fighting_fighting_30.pt",
+    "duration": 97.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Fighting",
+    "label": 3,
+    "video": "fighting (31).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Fighting_fighting_31.pt",
+    "duration": 94.0,
+    "fps": 24.0
+  },
+  {
+    "class": "Fighting",
+    "label": 3,
+    "video": "fighting (32).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Fighting_fighting_32.pt",
+    "duration": 158.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Fighting",
+    "label": 3,
+    "video": "fighting (33).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Fighting_fighting_33.pt",
+    "duration": 26.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Fighting",
+    "label": 3,
+    "video": "fighting (34).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Fighting_fighting_34.pt",
+    "duration": 124.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Fighting",
+    "label": 3,
+    "video": "fighting (35).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Fighting_fighting_35.pt",
+    "duration": 50.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Fighting",
+    "label": 3,
+    "video": "fighting (36).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Fighting_fighting_36.pt",
+    "duration": 79.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Fighting",
+    "label": 3,
+    "video": "fighting (37).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Fighting_fighting_37.pt",
+    "duration": 17.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Fighting",
+    "label": 3,
+    "video": "fighting (38).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Fighting_fighting_38.pt",
+    "duration": 95.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Fighting",
+    "label": 3,
+    "video": "fighting (39).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Fighting_fighting_39.pt",
+    "duration": 71.0,
+    "fps": 24.0
+  },
+  {
+    "class": "Fighting",
+    "label": 3,
+    "video": "fighting (4).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Fighting_fighting_4.pt",
+    "duration": 114.5,
+    "fps": 24.0
+  },
+  {
+    "class": "Fighting",
+    "label": 3,
+    "video": "fighting (40).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Fighting_fighting_40.pt",
+    "duration": 46.0,
+    "fps": 24.0
+  },
+  {
+    "class": "Fighting",
+    "label": 3,
+    "video": "fighting (5).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Fighting_fighting_5.pt",
+    "duration": 13.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Fighting",
+    "label": 3,
+    "video": "fighting (6).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Fighting_fighting_6.pt",
+    "duration": 28.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Fighting",
+    "label": 3,
+    "video": "fighting (7).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Fighting_fighting_7.pt",
+    "duration": 84.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Fighting",
+    "label": 3,
+    "video": "fighting (8).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Fighting_fighting_8.pt",
+    "duration": 96.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Fighting",
+    "label": 3,
+    "video": "fighting (9).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Fighting_fighting_9.pt",
+    "duration": 58.88,
+    "fps": 24.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (1).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_1.pt",
+    "duration": 28.77,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (10).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_10.pt",
+    "duration": 24.87,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (11).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_11.pt",
+    "duration": 177.4,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (12).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_12.pt",
+    "duration": 132.5,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (13).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_13.pt",
+    "duration": 448.63,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (14).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_14.pt",
+    "duration": 39.87,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (15).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_15.pt",
+    "duration": 120.83,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (16).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_16.pt",
+    "duration": 14.93,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (17).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_17.pt",
+    "duration": 166.43,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (18).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_18.pt",
+    "duration": 30.97,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (19).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_19.pt",
+    "duration": 150.07,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (2).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_2.pt",
+    "duration": 160.07,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (20).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_20.pt",
+    "duration": 42.03,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (21).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_21.pt",
+    "duration": 334.17,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (22).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_22.pt",
+    "duration": 139.93,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (23).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_23.pt",
+    "duration": 14.77,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (24).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_24.pt",
+    "duration": 7.47,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (25).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_25.pt",
+    "duration": 54.2,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (26).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_26.pt",
+    "duration": 109.23,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (27).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_27.pt",
+    "duration": 20.9,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (28).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_28.pt",
+    "duration": 31.0,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (29).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_29.pt",
+    "duration": 59.0,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (3).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_3.pt",
+    "duration": 56.47,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (30).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_30.pt",
+    "duration": 291.03,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (31).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_31.pt",
+    "duration": 30.8,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (32).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_32.pt",
+    "duration": 28.8,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (33).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_33.pt",
+    "duration": 13.5,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (34).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_34.pt",
+    "duration": 180.1,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (35).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_35.pt",
+    "duration": 15.8,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (36).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_36.pt",
+    "duration": 83.93,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (37).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_37.pt",
+    "duration": 6.97,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (38).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_38.pt",
+    "duration": 29.33,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (39).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_39.pt",
+    "duration": 15.57,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (4).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_4.pt",
+    "duration": 200.03,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (40).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_40.pt",
+    "duration": 140.87,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (41).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_41.pt",
+    "duration": 52.97,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (42).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_42.pt",
+    "duration": 91.47,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (43).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_43.pt",
+    "duration": 220.87,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (44).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_44.pt",
+    "duration": 41.1,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (45).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_45.pt",
+    "duration": 38.0,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (46).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_46.pt",
+    "duration": 32.8,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (47).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_47.pt",
+    "duration": 74.3,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (48).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_48.pt",
+    "duration": 375.83,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (49).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_49.pt",
+    "duration": 20.3,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (5).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_5.pt",
+    "duration": 16.0,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (50).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_50.pt",
+    "duration": 60.5,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (6).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_6.pt",
+    "duration": 273.7,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (7).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_7.pt",
+    "duration": 35.9,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (8).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_8.pt",
+    "duration": 10.17,
+    "fps": 30.0
+  },
+  {
+    "class": "Normal",
+    "label": 4,
+    "video": "normal (9).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Normal_normal_9.pt",
+    "duration": 120.0,
+    "fps": 30.0
+  },
+  {
+    "class": "Riot",
+    "label": 5,
+    "video": "riot (1).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Riot_riot_1.pt",
+    "duration": 43.17,
+    "fps": 24.0
+  },
+  {
+    "class": "Riot",
+    "label": 5,
+    "video": "riot (10).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Riot_riot_10.pt",
+    "duration": 816.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Riot",
+    "label": 5,
+    "video": "riot (11).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Riot_riot_11.pt",
+    "duration": 100.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Riot",
+    "label": 5,
+    "video": "riot (12).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Riot_riot_12.pt",
+    "duration": 204.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Riot",
+    "label": 5,
+    "video": "riot (13).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Riot_riot_13.pt",
+    "duration": 30.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Riot",
+    "label": 5,
+    "video": "riot (14).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Riot_riot_14.pt",
+    "duration": 60.12,
+    "fps": 24.0
+  },
+  {
+    "class": "Riot",
+    "label": 5,
+    "video": "riot (15).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Riot_riot_15.pt",
+    "duration": 60.12,
+    "fps": 24.0
+  },
+  {
+    "class": "Riot",
+    "label": 5,
+    "video": "riot (16).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Riot_riot_16.pt",
+    "duration": 140.83,
+    "fps": 24.0
+  },
+  {
+    "class": "Riot",
+    "label": 5,
+    "video": "riot (17).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Riot_riot_17.pt",
+    "duration": 77.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Riot",
+    "label": 5,
+    "video": "riot (18).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Riot_riot_18.pt",
+    "duration": 59.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Riot",
+    "label": 5,
+    "video": "riot (19).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Riot_riot_19.pt",
+    "duration": 58.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Riot",
+    "label": 5,
+    "video": "riot (2).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Riot_riot_2.pt",
+    "duration": 149.46,
+    "fps": 24.0
+  },
+  {
+    "class": "Riot",
+    "label": 5,
+    "video": "riot (20).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Riot_riot_20.pt",
+    "duration": 149.79,
+    "fps": 24.0
+  },
+  {
+    "class": "Riot",
+    "label": 5,
+    "video": "riot (21).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Riot_riot_21.pt",
+    "duration": 46.71,
+    "fps": 24.0
+  },
+  {
+    "class": "Riot",
+    "label": 5,
+    "video": "riot (22).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Riot_riot_22.pt",
+    "duration": 237.75,
+    "fps": 24.0
+  },
+  {
+    "class": "Riot",
+    "label": 5,
+    "video": "riot (23).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Riot_riot_23.pt",
+    "duration": 67.54,
+    "fps": 24.0
+  },
+  {
+    "class": "Riot",
+    "label": 5,
+    "video": "riot (24).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Riot_riot_24.pt",
+    "duration": 81.38,
+    "fps": 24.0
+  },
+  {
+    "class": "Riot",
+    "label": 5,
+    "video": "riot (25).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Riot_riot_25.pt",
+    "duration": 104.88,
+    "fps": 24.0
+  },
+  {
+    "class": "Riot",
+    "label": 5,
+    "video": "riot (26).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Riot_riot_26.pt",
+    "duration": 156.17,
+    "fps": 24.0
+  },
+  {
+    "class": "Riot",
+    "label": 5,
+    "video": "riot (27).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Riot_riot_27.pt",
+    "duration": 251.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Riot",
+    "label": 5,
+    "video": "riot (28).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Riot_riot_28.pt",
+    "duration": 99.0,
+    "fps": 24.0
+  },
+  {
+    "class": "Riot",
+    "label": 5,
+    "video": "riot (29).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Riot_riot_29.pt",
+    "duration": 149.25,
+    "fps": 24.0
+  },
+  {
+    "class": "Riot",
+    "label": 5,
+    "video": "riot (3).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Riot_riot_3.pt",
+    "duration": 112.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Riot",
+    "label": 5,
+    "video": "riot (30).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Riot_riot_30.pt",
+    "duration": 64.0,
+    "fps": 24.0
+  },
+  {
+    "class": "Riot",
+    "label": 5,
+    "video": "riot (31).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Riot_riot_31.pt",
+    "duration": 63.25,
+    "fps": 24.0
+  },
+  {
+    "class": "Riot",
+    "label": 5,
+    "video": "riot (32).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Riot_riot_32.pt",
+    "duration": 170.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Riot",
+    "label": 5,
+    "video": "riot (33).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Riot_riot_33.pt",
+    "duration": 174.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Riot",
+    "label": 5,
+    "video": "riot (34).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Riot_riot_34.pt",
+    "duration": 11.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Riot",
+    "label": 5,
+    "video": "riot (35).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Riot_riot_35.pt",
+    "duration": 75.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Riot",
+    "label": 5,
+    "video": "riot (36).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Riot_riot_36.pt",
+    "duration": 41.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Riot",
+    "label": 5,
+    "video": "riot (37).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Riot_riot_37.pt",
+    "duration": 88.0,
+    "fps": 24.0
+  },
+  {
+    "class": "Riot",
+    "label": 5,
+    "video": "riot (38).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Riot_riot_38.pt",
+    "duration": 90.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Riot",
+    "label": 5,
+    "video": "riot (39).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Riot_riot_39.pt",
+    "duration": 80.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Riot",
+    "label": 5,
+    "video": "riot (4).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Riot_riot_4.pt",
+    "duration": 180.33,
+    "fps": 24.0
+  },
+  {
+    "class": "Riot",
+    "label": 5,
+    "video": "riot (40).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Riot_riot_40.pt",
+    "duration": 45.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Riot",
+    "label": 5,
+    "video": "riot (5).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Riot_riot_5.pt",
+    "duration": 194.21,
+    "fps": 24.0
+  },
+  {
+    "class": "Riot",
+    "label": 5,
+    "video": "riot (6).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Riot_riot_6.pt",
+    "duration": 228.75,
+    "fps": 24.0
+  },
+  {
+    "class": "Riot",
+    "label": 5,
+    "video": "riot (7).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Riot_riot_7.pt",
+    "duration": 126.33,
+    "fps": 24.0
+  },
+  {
+    "class": "Riot",
+    "label": 5,
+    "video": "riot (8).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Riot_riot_8.pt",
+    "duration": 139.12,
+    "fps": 24.0
+  },
+  {
+    "class": "Riot",
+    "label": 5,
+    "video": "riot (9).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Riot_riot_9.pt",
+    "duration": 109.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Shooting",
+    "label": 6,
+    "video": "shooting (1).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Shooting_shooting_1.pt",
+    "duration": 16.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Shooting",
+    "label": 6,
+    "video": "shooting (10).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Shooting_shooting_10.pt",
+    "duration": 47.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Shooting",
+    "label": 6,
+    "video": "shooting (11).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Shooting_shooting_11.pt",
+    "duration": 28.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Shooting",
+    "label": 6,
+    "video": "shooting (12).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Shooting_shooting_12.pt",
+    "duration": 38.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Shooting",
+    "label": 6,
+    "video": "shooting (13).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Shooting_shooting_13.pt",
+    "duration": 30.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Shooting",
+    "label": 6,
+    "video": "shooting (14).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Shooting_shooting_14.pt",
+    "duration": 23.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Shooting",
+    "label": 6,
+    "video": "shooting (15).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Shooting_shooting_15.pt",
+    "duration": 118.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Shooting",
+    "label": 6,
+    "video": "shooting (16).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Shooting_shooting_16.pt",
+    "duration": 22.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Shooting",
+    "label": 6,
+    "video": "shooting (17).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Shooting_shooting_17.pt",
+    "duration": 65.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Shooting",
+    "label": 6,
+    "video": "shooting (18).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Shooting_shooting_18.pt",
+    "duration": 51.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Shooting",
+    "label": 6,
+    "video": "shooting (19).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Shooting_shooting_19.pt",
+    "duration": 60.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Shooting",
+    "label": 6,
+    "video": "shooting (2).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Shooting_shooting_2.pt",
+    "duration": 18.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Shooting",
+    "label": 6,
+    "video": "shooting (20).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Shooting_shooting_20.pt",
+    "duration": 10.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Shooting",
+    "label": 6,
+    "video": "shooting (21).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Shooting_shooting_21.pt",
+    "duration": 60.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Shooting",
+    "label": 6,
+    "video": "shooting (22).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Shooting_shooting_22.pt",
+    "duration": 50.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Shooting",
+    "label": 6,
+    "video": "shooting (23).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Shooting_shooting_23.pt",
+    "duration": 32.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Shooting",
+    "label": 6,
+    "video": "shooting (24).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Shooting_shooting_24.pt",
+    "duration": 93.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Shooting",
+    "label": 6,
+    "video": "shooting (25).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Shooting_shooting_25.pt",
+    "duration": 45.0,
+    "fps": 24.0
+  },
+  {
+    "class": "Shooting",
+    "label": 6,
+    "video": "shooting (26).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Shooting_shooting_26.pt",
+    "duration": 132.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Shooting",
+    "label": 6,
+    "video": "shooting (27).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Shooting_shooting_27.pt",
+    "duration": 15.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Shooting",
+    "label": 6,
+    "video": "shooting (28).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Shooting_shooting_28.pt",
+    "duration": 60.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Shooting",
+    "label": 6,
+    "video": "shooting (29).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Shooting_shooting_29.pt",
+    "duration": 74.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Shooting",
+    "label": 6,
+    "video": "shooting (3).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Shooting_shooting_3.pt",
+    "duration": 22.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Shooting",
+    "label": 6,
+    "video": "shooting (30).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Shooting_shooting_30.pt",
+    "duration": 30.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Shooting",
+    "label": 6,
+    "video": "shooting (31).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Shooting_shooting_31.pt",
+    "duration": 32.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Shooting",
+    "label": 6,
+    "video": "shooting (32).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Shooting_shooting_32.pt",
+    "duration": 50.0,
+    "fps": 24.0
+  },
+  {
+    "class": "Shooting",
+    "label": 6,
+    "video": "shooting (33).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Shooting_shooting_33.pt",
+    "duration": 101.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Shooting",
+    "label": 6,
+    "video": "shooting (34).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Shooting_shooting_34.pt",
+    "duration": 59.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Shooting",
+    "label": 6,
+    "video": "shooting (35).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Shooting_shooting_35.pt",
+    "duration": 64.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Shooting",
+    "label": 6,
+    "video": "shooting (36).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Shooting_shooting_36.pt",
+    "duration": 43.0,
+    "fps": 24.0
+  },
+  {
+    "class": "Shooting",
+    "label": 6,
+    "video": "shooting (37).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Shooting_shooting_37.pt",
+    "duration": 77.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Shooting",
+    "label": 6,
+    "video": "shooting (38).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Shooting_shooting_38.pt",
+    "duration": 15.0,
+    "fps": 24.0
+  },
+  {
+    "class": "Shooting",
+    "label": 6,
+    "video": "shooting (39).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Shooting_shooting_39.pt",
+    "duration": 50.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Shooting",
+    "label": 6,
+    "video": "shooting (4).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Shooting_shooting_4.pt",
+    "duration": 105.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Shooting",
+    "label": 6,
+    "video": "shooting (40).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Shooting_shooting_40.pt",
+    "duration": 46.0,
+    "fps": 24.0
+  },
+  {
+    "class": "Shooting",
+    "label": 6,
+    "video": "shooting (5).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Shooting_shooting_5.pt",
+    "duration": 56.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Shooting",
+    "label": 6,
+    "video": "shooting (6).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Shooting_shooting_6.pt",
+    "duration": 32.04,
+    "fps": 24.0
+  },
+  {
+    "class": "Shooting",
+    "label": 6,
+    "video": "shooting (7).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Shooting_shooting_7.pt",
+    "duration": 25.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Shooting",
+    "label": 6,
+    "video": "shooting (8).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Shooting_shooting_8.pt",
+    "duration": 70.08,
+    "fps": 24.0
+  },
+  {
+    "class": "Shooting",
+    "label": 6,
+    "video": "shooting (9).mp4",
+    "feature_path": "C:\\Users\\sivak\\Downloads\\crime data\\TFIF\\data\\processed\\Shooting_shooting_9.pt",
+    "duration": 20.0,
+    "fps": 24.0
+  }
+]

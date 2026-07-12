@@ -1,0 +1,36 @@
+# Dataset (large + likely not yours to redistribute)
+data/raw/
+data/processed/
+*.mp4
+*.avi
+
+# Model weights (large binary files)
+model/saved_model/*.pt
+model/saved_model/*.h5
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.egg-info/
+
+# Node
+node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Runtime data
+backend/uploads/
+backend/keyframes/
+backend/reports/
+*.db
+*.sqlite3
+
+# Secrets
+.env
+.env.local
+
+# OS/editor
+.DS_Store
+.vscode/
