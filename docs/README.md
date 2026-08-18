@@ -42,7 +42,7 @@ Built for the **XD-Violence** dataset across 7 incident classes: `Normal` · `Fi
 
 ## 🖥️ Preview
 
-> _Add screenshots or a GIF of the dashboard here once the frontend is running — e.g. `docs/screenshot-dashboard.png`_
+DEMO VIDEO LINK :  https://drive.google.com/file/d/19Ud46tBDvPZlU5l5Bct5842CGRKTT4rI/view?usp=sharing
 
 ```
 Upload video → Live processing status → Classification + confidence
